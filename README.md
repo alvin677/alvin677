@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [archwatch](https://github.com/CodesWithJames/archwatch)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Frontend** and **Backend**
 
 - 💬 Ask me about **anything**
 
