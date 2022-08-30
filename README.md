@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin677&label=Profile%20views&color=0e75b6&style=flat" alt="alvin677" /> </p>
 
-- 🔭 I’m currently working on [archwatch](https://github.com/CodesWithJames/archwatch)
+- 🔭 I was currently working on [archwatch](https://github.com/CodesWithJames/archwatch)
 
 - 🌱 I’m currently learning **Frontend** and **Backend**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **alvin.lodel@gmail.com**
+- 📫 How to reach me **alvin.lodel@gmail.com** or **Cedric#0591**
 
 <!--h3 align="left">Connect with me:</h3-->
 <p align="left">
