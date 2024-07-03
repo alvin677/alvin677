@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin677&label=Profile%20views&color=0e75b6&style=flat" alt="alvin677" /> </p>
 
-- 🔭 I was currently working on [archwatch](https://github.com/CodesWithJames/archwatch)
+- 🔭 I was currently working on multiple projects such as [cofs](https://cofs.pkings.net), [marss](https://marsx.lol) and [pkings.net](https://pkings.net)
 
-- 🌱 I’m currently learning **Frontend** and **Backend**
+- 🌱 I’m currently learning **Rust** (i think)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **alvin.lodel@gmail.com** or **Cedric#0591**
+- 📫 How to reach me **alvin.lodel@gmail.com** or **@cedric0591** on Discord
 
 <!--h3 align="left">Connect with me:</h3-->
 <p align="left">
